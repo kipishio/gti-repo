@@ -1,6 +1,6 @@
-2 print("Hellow world");
-2 print("Hello everybody");
-2 print("Hello");
-2 print("hello my dear frend");
-2 print("hello Glad to see you");
+print("Hellow world");
+print("Hello everybody");
+print("Hello");
+print("hello my dear frend");
+print("hello Glad to see you");
 
