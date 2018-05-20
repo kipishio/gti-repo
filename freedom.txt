@@ -1,1 +1,2 @@
 print(freedom_class)
+
